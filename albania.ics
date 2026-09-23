@@ -1,0 +1,1013 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Albania field app//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Albania 2026
+X-WR-TIMEZONE:Europe/Tirane
+BEGIN:VTIMEZONE
+TZID:Europe/Tirane
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:albania-2026-1@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260925T090000
+DTEND;TZID=Europe/Tirane:20260925T093000
+SUMMARY:Wake up — Day 1: Land in Tirana
+DESCRIPTION:00:30 Land at TIA\, taxi to 7even Boutique Hostel\n10:00 Get lek at a kambio\n11:00 Skanderbeg Square & Et'hem Bey Mosque\n13:30 Bunk'Art 2\n15:30 Pyramid of Tirana\n19:30 Dinner in Blloku\n\nBring: Comfortable shoes\, Credit card + backup\, Euros + lek cash\, Light layer for the evening\, Passport
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 1: Land in Tirana
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-2@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260925T003000
+DTEND;TZID=Europe/Tirane:20260925T100000
+SUMMARY:Land at TIA\, taxi to 7even Boutique Hostel
+DESCRIPTION:~25 min to the centre. Confirm the late arrival — you're past their midnight cutoff.\n\n7even Boutique Hostel\, Tirana\nRruga 3 Vëllezërit Kondi\, Tiranë 1001 · plus code 8R8P+7MX\n5-bed mixed dorm · €88 total · $27.10 paid · €72 + €6 tax at the property\nCheck-in 14:00–00:00 (you land 00:30 — confirm late arrival) · check-out 11:00
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-3@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260925T100000
+DTEND;TZID=Europe/Tirane:20260925T110000
+SUMMARY:Get lek at a kambio
+DESCRIPTION:Do this first — Theth\, Valbonë and Kakome are cash-only later.
+LOCATION:Skanderbeg Square\, Tirana
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Get lek at a kambio
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-4@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260925T110000
+DTEND;TZID=Europe/Tirane:20260925T133000
+SUMMARY:Skanderbeg Square & Et'hem Bey Mosque
+DESCRIPTION:Walking orientation. Everything today is on foot.
+LOCATION:Skanderbeg Square\, Tirana
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Skanderbeg Square & Et'hem Bey Mosque
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-5@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260925T133000
+DTEND;TZID=Europe/Tirane:20260925T153000
+SUMMARY:Bunk'Art 2
+DESCRIPTION:Cold War bunker museum\, 09:30–18:30. The indoor stop on a wet day.
+LOCATION:Bunk'Art 2\, Tirana
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bunk'Art 2
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-6@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260925T153000
+DTEND;TZID=Europe/Tirane:20260925T193000
+SUMMARY:Pyramid of Tirana
+DESCRIPTION:Climb it for the city view.
+LOCATION:Pyramid of Tirana
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pyramid of Tirana
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-7@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260925T193000
+DTEND;TZID=Europe/Tirane:20260925T203000
+SUMMARY:Dinner in Blloku
+DESCRIPTION:The bar district. First night\; stay close.
+LOCATION:Blloku\, Tirana
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dinner in Blloku
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-8@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260926T070000
+DTEND;TZID=Europe/Tirane:20260926T073000
+SUMMARY:Wake up — Day 2: Car\, Kruja\, Shkodër
+DESCRIPTION:07:40 Check out\, walk to Avis\n08:00 Pick up the rental car\n08:45 Kruja Castle & Old Bazaar\n10:45 Drive to Shkodër\, drop bags\n12:45 Lunch on Rruga Kolë Idromeno\n14:15 Mesi Bridge\n15:15 Rozafa Castle\n18:30 Sunset cruise\, Lake Shkodra\n\nBring: Credit card + backup\, Driving licence + IDP\, Euros + lek cash\, Passport\, Passport (needed with a non-Albanian licence)\, Phone mount / cable\, Taksh's physical credit card
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 2: Car\, Kruja\, Shkodër
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-9@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260926T074000
+DTEND;TZID=Europe/Tirane:20260926T080000
+SUMMARY:Check out\, walk to Avis
+DESCRIPTION:Bags with you — you're not coming back.\n\n7even Boutique Hostel\, Tirana\nRruga 3 Vëllezërit Kondi\, Tiranë 1001 · plus code 8R8P+7MX\n5-bed mixed dorm · €88 total · $27.10 paid · €72 + €6 tax at the property\nCheck-in 14:00–00:00 (you land 00:30 — confirm late arrival) · check-out 11:00
+LOCATION:Rruga Themistokli Gërmenji 10\, Tirana
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Check out\, walk to Avis
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-10@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260926T080000
+DTEND;TZID=Europe/Tirane:20260926T084500
+SUMMARY:Pick up the rental car
+DESCRIPTION:Avis 24894486US1 under Taksh. Assumes zero desk time — everything slides if it runs long.\n\nAvis · 24894486US1\nPick up Sat 26 Sep 08:00 — Albanian National (IH4)\, Rr Themistokli Germenji 10\, Tirana · Sat 08:00–16:00\nDrop off Wed 7 Oct 08:00 — Tirana International Airport · +355 67 502 3413 · 24h\, key drop\nOpel Astra or similar · manual · unlimited km · est. $470.73\nBring: Taksh's physical credit card\, licence\, passport\, IDP
+LOCATION:Rruga Themistokli Gërmenji 10\, Tirana
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pick up the rental car
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-11@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260926T084500
+DTEND;TZID=Europe/Tirane:20260926T104500
+SUMMARY:Kruja Castle & Old Bazaar
+DESCRIPTION:Two hours. Museums open ~09:00\; start with the bazaar and the walls.
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kruja Castle & Old Bazaar
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-12@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260926T104500
+DTEND;TZID=Europe/Tirane:20260926T124500
+SUMMARY:Drive to Shkodër\, drop bags
+DESCRIPTION:~1h 30m. Reception opens 06:00: book the cruise\, parking 27–29\, the 14:00 Theth bus\, poles.\n\nShkodra Hostel & Day Tours\nRruga Gjylbegaj\, 4001 Shkodër\n6-bed mixed dorm · €34 · $7.53 paid · €27.88 at the property\, cash only\nCheck-in 14:00–22:00 · check-out 10:00 · reception 06:00–23:00\nSort at the desk: sunset cruise\, parking 27–29 Sep\, 14:00 Theth bus\, pole rental
+LOCATION:Shkodra Hostel & Day Tours\, Rruga Gjylbegaj\, Shkodër
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Drive to Shkodër\, drop bags
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-13@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260926T124500
+DTEND;TZID=Europe/Tirane:20260926T141500
+SUMMARY:Lunch on Rruga Kolë Idromeno
+DESCRIPTION:Outfitters on this street rent poles if the hostel doesn't.
+LOCATION:Rruga Kolë Idromeno\, Shkodër
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lunch on Rruga Kolë Idromeno
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-14@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260926T141500
+DTEND;TZID=Europe/Tirane:20260926T151500
+SUMMARY:Mesi Bridge
+DESCRIPTION:Ottoman bridge over the Kir\, 1770. Half an hour.
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mesi Bridge
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-15@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260926T151500
+DTEND;TZID=Europe/Tirane:20260926T183000
+SUMMARY:Rozafa Castle
+DESCRIPTION:One hour. Back at the hostel by 16:45 to check in and shower.
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rozafa Castle
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-16@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260926T183000
+DTEND;TZID=Europe/Tirane:20260926T193000
+SUMMARY:Sunset cruise\, Lake Shkodra
+DESCRIPTION:6:30–11 PM\, €40 pp as guests. Leaves from the hostel.\n\nShkodra Hostel & Day Tours\nRruga Gjylbegaj\, 4001 Shkodër\n6-bed mixed dorm · €34 · $7.53 paid · €27.88 at the property\, cash only\nCheck-in 14:00–22:00 · check-out 10:00 · reception 06:00–23:00\nSort at the desk: sunset cruise\, parking 27–29 Sep\, 14:00 Theth bus\, pole rental
+LOCATION:Shkodra Hostel & Day Tours\, Rruga Gjylbegaj\, Shkodër
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sunset cruise\, Lake Shkodra
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-17@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260927T080000
+DTEND;TZID=Europe/Tirane:20260927T083000
+SUMMARY:Wake up — Day 3: Bus to Theth
+DESCRIPTION:09:00 Marubi National Museum of Photography\n10:30 Poles + snacks errand\n14:00 Bus Shkodër → Theth\n16:00 Arrive Theth\, walk to Gjelaj\n16:45 Blue Eye of Theth or the Grunas waterfall\n\nBring: 2 L water\, Broken-in boots\, Cash for the guesthouse\, Credit card + backup\, Euros + lek cash\, Fleece / insulated layer\, Passport\, Power bank\, Rain shell\, Snacks\, Trekking poles
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 3: Bus to Theth
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-18@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260927T090000
+DTEND;TZID=Europe/Tirane:20260927T103000
+SUMMARY:Marubi National Museum of Photography
+DESCRIPTION:One hour. Check out by 10:00 — bags to storage\, car stays in the hostel lot.\n\nShkodra Hostel & Day Tours\nRruga Gjylbegaj\, 4001 Shkodër\n6-bed mixed dorm · €34 · $7.53 paid · €27.88 at the property\, cash only\nCheck-in 14:00–22:00 · check-out 10:00 · reception 06:00–23:00\nSort at the desk: sunset cruise\, parking 27–29 Sep\, 14:00 Theth bus\, pole rental
+LOCATION:Marubi National Museum of Photography\, Shkodër
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Marubi National Museum of Photography
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-19@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260927T103000
+DTEND;TZID=Europe/Tirane:20260927T140000
+SUMMARY:Poles + snacks errand
+DESCRIPTION:Rruga Kolë Idromeno if not done yesterday. Cash for the mountains.
+LOCATION:Rruga Kolë Idromeno\, Shkodër
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Poles + snacks errand
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-20@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260927T140000
+DTEND;TZID=Europe/Tirane:20260927T160000
+SUMMARY:Bus Shkodër → Theth
+DESCRIPTION:~2h through the Qafa e Thorës pass. Confirm the operator with the hostel.
+LOCATION:Shkodra Hostel & Day Tours\, Rruga Gjylbegaj\, Shkodër
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bus Shkodër → Theth
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-21@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260927T160000
+DTEND;TZID=Europe/Tirane:20260927T164500
+SUMMARY:Arrive Theth\, walk to Gjelaj
+DESCRIPTION:150 m path up from the road — ask the driver where to drop you.\n\nGuest House Gjelaj\, Theth\nGjelaj\, Theth 4018 · reachable on foot along a 150 m path\nTriple room\, shared bathroom · €60 · pay at the property · breakfast included\nCheck-in after 14:00 · check-out 11:00 · tell them your arrival time (14:00 bus\, ~16:00)
+LOCATION:Guest House Gjelaj\, Theth
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arrive Theth\, walk to Gjelaj
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-22@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260927T164500
+DTEND;TZID=Europe/Tirane:20260927T174500
+SUMMARY:Blue Eye of Theth or the Grunas waterfall
+DESCRIPTION:Short walk before dark. Dinner at the guesthouse\; ask for early breakfast.
+LOCATION:Grunas Waterfall\, Theth
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Blue Eye of Theth or the Grunas waterfall
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-23@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260928T060000
+DTEND;TZID=Europe/Tirane:20260928T063000
+SUMMARY:Wake up — Day 4: Valbona Pass on foot
+DESCRIPTION:07:00 Start walking from Gjelaj\n10:30 Valbona Pass\, ~1\,800 m\n15:30 Arrive Valbonë\, Guest house 2\n\nBring: 2 L water\, Broken-in boots\, Cash for the guesthouse\, Fleece / insulated layer\, Power bank\, Rain shell\, Snacks\, Trekking poles
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 4: Valbona Pass on foot
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-24@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260928T070000
+DTEND;TZID=Europe/Tirane:20260928T103000
+SUMMARY:Start walking from Gjelaj
+DESCRIPTION:17 km\, ~1\,000 m up and down\, 6–8 h. Turn back if storms are forecast.\n\nGuest House Gjelaj\, Theth\nGjelaj\, Theth 4018 · reachable on foot along a 150 m path\nTriple room\, shared bathroom · €60 · pay at the property · breakfast included\nCheck-in after 14:00 · check-out 11:00 · tell them your arrival time (14:00 bus\, ~16:00)
+LOCATION:Guest House Gjelaj\, Theth
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Start walking from Gjelaj
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-25@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260928T103000
+DTEND;TZID=Europe/Tirane:20260928T153000
+SUMMARY:Valbona Pass\, ~1\,800 m
+DESCRIPTION:Cold and exposed. Fleece on at the top\, then the long descent.
+LOCATION:Valbona Pass\, Albania
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Valbona Pass\, ~1\,800 m
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-26@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260928T153000
+DTEND;TZID=Europe/Tirane:20260928T163000
+SUMMARY:Arrive Valbonë\, Guest house 2
+DESCRIPTION:Check in\, wash\, eat. Sort tonight: packed breakfast and the 05:00 Fierzë transfer.\n\nGuest house 2\, Valbonë\nRruga Azem Hajdari\, Valbonë 8701\nDeluxe double\, twin beds requested · €32 · pay at check-in · breakfast\, parking\nCheck-out before 10:00 — you leave 05:00: ask for packed breakfast and the 05:00 transfer to Fierzë
+LOCATION:Guest house 2\, Rruga Azem Hajdari\, Valbonë
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arrive Valbonë\, Guest house 2
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-27@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260929T040000
+DTEND;TZID=Europe/Tirane:20260929T043000
+SUMMARY:Wake up — Day 5: Komani Lake\, south to the vineyards
+DESCRIPTION:05:00 Transfer Valbonë → Fierzë dock\n06:00 Boat Dragobia\, Fierzë → Koman\n09:30 Bus Koman → Shkodër\n11:45 Reclaim the car\, drive south\n15:15 Check in at Nurellari Winery\n17:00 Full wine tasting\n\nBring: Cash for taxi / boat / bus\, Cash ~ALL 9\,000 for the tasting\, Driving licence + IDP\, Layers — 05:00 is cold\, Packed breakfast (ask the night before)\, Passport (needed with a non-Albanian licence)\, Phone mount / cable\, Taksh's physical credit card\, The Nurellari confirmation (two names\, one property)
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 5: Komani Lake\, south to the vineyards
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-28@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260929T050000
+DTEND;TZID=Europe/Tirane:20260929T060000
+SUMMARY:Transfer Valbonë → Fierzë dock
+DESCRIPTION:No bus this early — guesthouse or a Berisha taxi (~€50). Book it the night before.\n\nGuest house 2\, Valbonë\nRruga Azem Hajdari\, Valbonë 8701\nDeluxe double\, twin beds requested · €32 · pay at check-in · breakfast\, parking\nCheck-out before 10:00 — you leave 05:00: ask for packed breakfast and the 05:00 transfer to Fierzë
+LOCATION:Fierzë ferry terminal\, Albania
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Transfer Valbonë → Fierzë dock
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-29@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260929T060000
+DTEND;TZID=Europe/Tirane:20260929T093000
+SUMMARY:Boat Dragobia\, Fierzë → Koman
+DESCRIPTION:Foot passengers. €8.80 online. 2h30–3h on the water.
+LOCATION:Fierzë ferry terminal\, Albania
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Dragobia\, Fierzë → Koman
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-30@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260929T093000
+DTEND;TZID=Europe/Tirane:20260929T114500
+SUMMARY:Bus Koman → Shkodër
+DESCRIPTION:Northern Escape €10\, arrives ~11:30.
+LOCATION:Koman ferry terminal\, Albania
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bus Koman → Shkodër
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-31@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260929T114500
+DTEND;TZID=Europe/Tirane:20260929T151500
+SUMMARY:Reclaim the car\, drive south
+DESCRIPTION:Google says 2h37 to Berat\; budget 3h15–3h30 with fuel and Tirana traffic.\n\nShkodra Hostel & Day Tours\nRruga Gjylbegaj\, 4001 Shkodër\n6-bed mixed dorm · €34 · $7.53 paid · €27.88 at the property\, cash only\nCheck-in 14:00–22:00 · check-out 10:00 · reception 06:00–23:00\nSort at the desk: sunset cruise\, parking 27–29 Sep\, 14:00 Theth bus\, pole rental
+LOCATION:Shkodra Hostel & Day Tours\, Rruga Gjylbegaj\, Shkodër
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reclaim the car\, drive south
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-32@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260929T151500
+DTEND;TZID=Europe/Tirane:20260929T170000
+SUMMARY:Check in at Nurellari Winery
+DESCRIPTION:Both names\, one property. Rest before the tasting.\n\nNurellari Winery Guest House\nExecutive Triple\, twin beds requested · €115 · pay at check-in · breakfast\, parking\nCheck-in after 14:00 · check-out before 11:00
+LOCATION:Nurellari Winery\, Fushë Peshtan\, Berat
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Check in at Nurellari Winery
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-33@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260929T170000
+DTEND;TZID=Europe/Tirane:20260929T180000
+SUMMARY:Full wine tasting
+DESCRIPTION:Two hours\, seven wines. You sleep upstairs.\n\nNurellari Winery · full tasting 17:00\nFushë Peshtan 5017\, ~20 min outside Berat\n2 guests · 120 min · 7 wines with cheeses\, prosciutto\, olives · ALL 4\,500 (~€45) pp\nSame property as tonight's room — mention both names at check-in
+LOCATION:Nurellari Winery\, Fushë Peshtan\, Berat
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Full wine tasting
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-34@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260930T093000
+DTEND;TZID=Europe/Tirane:20260930T095900
+SUMMARY:Wake up — Day 6: Berat\, then on to Përmet
+DESCRIPTION:11:20 Arrive Berat\, park by the river\n12:00 Lunch — Homemade Food Lili\n13:15 Mangalem\, Gorica & the castle\n16:15 Drive to Përmet via Këlcyrë Gorge\n20:00 Dinner in Përmet\n\nBring: Comfortable shoes\, Credit card + backup\, Euros + lek cash\, Light layer for the evening\, Passport
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 6: Berat\, then on to Përmet
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-35@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260930T112000
+DTEND;TZID=Europe/Tirane:20260930T120000
+SUMMARY:Arrive Berat\, park by the river
+DESCRIPTION:Bulevardi Republika near the Gorica footbridge. On foot from here.
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arrive Berat\, park by the river
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-36@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260930T120000
+DTEND;TZID=Europe/Tirane:20260930T131500
+SUMMARY:Lunch — Homemade Food Lili
+DESCRIPTION:Book a day ahead or accept a wait. Fallbacks: Antigoni\, Mangalemi.
+LOCATION:Homemade Food Lili\, Berat
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lunch — Homemade Food Lili
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-37@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260930T131500
+DTEND;TZID=Europe/Tirane:20260930T161500
+SUMMARY:Mangalem\, Gorica & the castle
+DESCRIPTION:Three hours. Onufri Museum inside the castle.
+LOCATION:Berat Castle
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mangalem\, Gorica & the castle
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-38@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260930T161500
+DTEND;TZID=Europe/Tirane:20260930T200000
+SUMMARY:Drive to Përmet via Këlcyrë Gorge
+DESCRIPTION:~3h. Dusk in the gorge. Message The Stone House with your ~19:15 arrival.\n\nThe Stone House\, Përmet\nRruga Mulliri i Vjetër 19\, Përmet 6404 · private host\nStandard double · €87.75 at check-in · breakfast\, parking\, WiFi\nCheck-in after 15:00 · check-out before 11:00 · not refundable\nArriving ~19:15 on the 30th — message the host
+LOCATION:The Stone House\, Rruga Mulliri i Vjetër 19\, Përmet
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Drive to Përmet via Këlcyrë Gorge
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-39@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20260930T200000
+DTEND;TZID=Europe/Tirane:20260930T210000
+SUMMARY:Dinner in Përmet
+DESCRIPTION:Trifilia\, Te Culi\, Sofra Përmetare. Gliko and raki after.
+LOCATION:Përmet\, Albania
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dinner in Përmet
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-40@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261001T073000
+DTEND;TZID=Europe/Tirane:20261001T075900
+SUMMARY:Wake up — Day 7: The Vjosa: rafting\, lunch\, hot springs
+DESCRIPTION:09:15 Rafting meeting point\, Qilarisht\n13:00 Lunch — Bar Tradicional RIVER VJOSA\, Petran\n14:30 Bënjë thermal baths & Langarica Canyon\n17:30 City Stone at sunset\n20:30 Ask the host about early breakfast\n\nBring: Credit card + backup\, Dry bag\, Euros + lek cash\, Passport\, Swimwear\, Towel\, Water + snacks (nothing sold at the springs)\, Water shoes
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 7: The Vjosa: rafting\, lunch\, hot springs
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-41@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261001T091500
+DTEND;TZID=Europe/Tirane:20261001T130000
+SUMMARY:Rafting meeting point\, Qilarisht
+DESCRIPTION:10 min south of town. Hydrospeed for two\, paid. Back ~12:45.\n\nVjosa hydrospeed & rafting\nReceipt 822831081078159073280 (WeTravel) · Hydrospeed × 2 · €120 paid\, nothing due\nMeeting point: Vjosa Albania Rafting Group Glamping\, Qilarisht — ~10 min south of Përmet on the SH75\nBe there 09:15
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rafting meeting point\, Qilarisht
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-42@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261001T130000
+DTEND;TZID=Europe/Tirane:20261001T143000
+SUMMARY:Lunch — Bar Tradicional RIVER VJOSA\, Petran
+DESCRIPTION:At the river bend. Walk down to the water after.
+LOCATION:Bar Tradicional River Vjosa Restorant\, Petran\, Përmet
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lunch — Bar Tradicional RIVER VJOSA\, Petran
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-43@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261001T143000
+DTEND;TZID=Europe/Tirane:20261001T173000
+SUMMARY:Bënjë thermal baths & Langarica Canyon
+DESCRIPTION:Dry day only for the canyon. Nothing sold there — bring water.
+LOCATION:Benja Thermal Baths\, Përmet
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bënjë thermal baths & Langarica Canyon
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-44@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261001T173000
+DTEND;TZID=Europe/Tirane:20261001T203000
+SUMMARY:City Stone at sunset
+DESCRIPTION:Guri i Qytetit — the stair up the rock. Then dinner.
+LOCATION:Guri i Qytetit\, Përmet
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:City Stone at sunset
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-45@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261001T203000
+DTEND;TZID=Europe/Tirane:20261001T213000
+SUMMARY:Ask the host about early breakfast
+DESCRIPTION:You leave 07:30 tomorrow.\n\nThe Stone House\, Përmet\nRruga Mulliri i Vjetër 19\, Përmet 6404 · private host\nStandard double · €87.75 at check-in · breakfast\, parking\, WiFi\nCheck-in after 15:00 · check-out before 11:00 · not refundable\nArriving ~19:15 on the 30th — message the host
+LOCATION:The Stone House\, Rruga Mulliri i Vjetër 19\, Përmet
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ask the host about early breakfast
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-46@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261002T063000
+DTEND;TZID=Europe/Tirane:20261002T065900
+SUMMARY:Wake up — Day 8: Gjirokastër\, Blue Eye\, Sarandë
+DESCRIPTION:07:30 Leave Përmet — Këlcyrë Gorge in daylight\n09:00 Gjirokastër castle & bazaar\n13:30 Blue Eye (Syri i Kaltër)\n17:00 Arrive Sarandë — The Hangout\n\nBring: Comfortable shoes\, Hat\, Light layer for the evening\, SPF 50\, Swimwear\, Towel\, Water shoes\, Waterproof phone case
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 8: Gjirokastër\, Blue Eye\, Sarandë
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-47@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261002T073000
+DTEND;TZID=Europe/Tirane:20261002T090000
+SUMMARY:Leave Përmet — Këlcyrë Gorge in daylight
+DESCRIPTION:Pull over once: cliffs\, the fortress ridge\, pebble beaches.
+LOCATION:Këlcyrë\, Albania
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leave Përmet — Këlcyrë Gorge in daylight
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-48@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261002T090000
+DTEND;TZID=Europe/Tirane:20261002T133000
+SUMMARY:Gjirokastër castle & bazaar
+DESCRIPTION:Three hours. Castle first\, bazaar for lunch.
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gjirokastër castle & bazaar
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-49@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261002T133000
+DTEND;TZID=Europe/Tirane:20261002T170000
+SUMMARY:Blue Eye (Syri i Kaltër)
+DESCRIPTION:~50 min. Short walk from the car park. No swimming.
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Blue Eye (Syri i Kaltër)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-50@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261002T170000
+DTEND;TZID=Europe/Tirane:20261002T180000
+SUMMARY:Arrive Sarandë — The Hangout
+DESCRIPTION:Check in 14:00–23:00. Ask about parking. Lungomare for dinner.\n\nThe HANGOUT Hostel\, Sarandë\nRruga Onhezmi\, Saranda 9701\n12-bed mixed dorm · €64 · $11.75 paid · €54.40 at the property (cash\, or card in lek)\nCheck-in 14:00–23:00 (500 lek after 23:00) · check-out 10:00 · ask about parking
+LOCATION:The Hangout Hostel\, Rruga Onhezmi\, Sarandë
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arrive Sarandë — The Hangout
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-51@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261003T073000
+DTEND;TZID=Europe/Tirane:20261003T075900
+SUMMARY:Wake up — Day 9: Butrint\, then a Ksamil afternoon
+DESCRIPTION:08:30 Butrint at opening\n12:00 Ksamil beaches\n16:30 Back to Sarandë · Lëkurësi Castle at sunset\n\nBring: Credit card + backup\, Euros + lek cash\, Hat\, Passport\, SPF 50\, Swimwear\, Towel\, Water shoes\, Waterproof phone case
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 9: Butrint\, then a Ksamil afternoon
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-52@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261003T083000
+DTEND;TZID=Europe/Tirane:20261003T120000
+SUMMARY:Butrint at opening
+DESCRIPTION:~35 min via Ksamil. 1\,000 lek pp. Three hours.
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Butrint at opening
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-53@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261003T120000
+DTEND;TZID=Europe/Tirane:20261003T163000
+SUMMARY:Ksamil beaches
+DESCRIPTION:Plazhi Ksamil 7 (free) or a lounger facing the islands. Seafood lunch.
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ksamil beaches
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-54@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261003T163000
+DTEND;TZID=Europe/Tirane:20261003T173000
+SUMMARY:Back to Sarandë · Lëkurësi Castle at sunset
+DESCRIPTION:10 min above town. Sunset ~18:45. Then the night out.\n\nThe HANGOUT Hostel\, Sarandë\nRruga Onhezmi\, Saranda 9701\n12-bed mixed dorm · €64 · $11.75 paid · €54.40 at the property (cash\, or card in lek)\nCheck-in 14:00–23:00 (500 lek after 23:00) · check-out 10:00 · ask about parking
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Back to Sarandë · Lëkurësi Castle at sunset
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-55@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261004T080000
+DTEND;TZID=Europe/Tirane:20261004T083000
+SUMMARY:Wake up — Day 10: Kakome\, the Riviera road\, Llogara\, Vlorë
+DESCRIPTION:10:45 Kakome Bay & Monastery of St Mary\n13:00 Riviera road: Himara lunch\, Dhërmi look\n16:00 Llogara Pass\n17:30 Arrive Vlorë — Flamingo Hotel\n\nBring: Credit card + backup\, Euros + lek cash\, Hat\, Passport\, SPF 50\, Swimwear\, Towel\, Water shoes\, Waterproof phone case
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 10: Kakome\, the Riviera road\, Llogara\, Vlorë
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-56@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261004T104500
+DTEND;TZID=Europe/Tirane:20261004T130000
+SUMMARY:Kakome Bay & Monastery of St Mary
+DESCRIPTION:~35 min north. ~€10 gate\, cash. Walking back up by 12:45.
+LOCATION:Monastery of Saint Mary\, Kakome\, Albania
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kakome Bay & Monastery of St Mary
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-57@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261004T130000
+DTEND;TZID=Europe/Tirane:20261004T160000
+SUMMARY:Riviera road: Himara lunch\, Dhërmi look
+DESCRIPTION:Borsh\, Qeparo\, Himara on the seafront. Optional: castle\, Pirates' Cave.
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Riviera road: Himara lunch\, Dhërmi look
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-58@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261004T160000
+DTEND;TZID=Europe/Tirane:20261004T173000
+SUMMARY:Llogara Pass
+DESCRIPTION:30 min at the top for the view back south. Take the pass\, not the tunnel.
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Llogara Pass
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-59@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261004T173000
+DTEND;TZID=Europe/Tirane:20261004T183000
+SUMMARY:Arrive Vlorë — Flamingo Hotel
+DESCRIPTION:Front desk closes 23:00\, no after-hours check-in. Resort fee + city tax at the desk.\n\nFlamingo Hotel\, Vlorë\nRruga Sulejman Delvina (Lungomare)\, Vlorë 9401 · ~10 min walk to the TripMe office\nSuperior double\, 1 king bed · $123.58 paid · at the property: $12.18 resort fee + city tax €2.64 pp/night\nCheck-in 15:00 · front desk 07:00–23:00\, no after-hours check-in · check-out 11:00
+LOCATION:Flamingo Hotel\, Rruga Sulejman Delvina\, Vlorë
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arrive Vlorë — Flamingo Hotel
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-60@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261005T083000
+DTEND;TZID=Europe/Tirane:20261005T085900
+SUMMARY:Wake up — Day 11: Grama Bay & the Blue Cave by boat
+DESCRIPTION:10:15 TripMe Today office — boat check-in\n10:30 Speedboat: Karaburun\, Blue Cave\, Grama Bay\n19:00 Dinner on the Lungomare\n\nBring: A little cash\, Hat\, Motion tablets if you need them\, SPF 50\, Swimwear on under clothes\, Towel\, Waterproof phone case / dry bag
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 11: Grama Bay & the Blue Cave by boat
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-61@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261005T101500
+DTEND;TZID=Europe/Tirane:20261005T103000
+SUMMARY:TripMe Today office — boat check-in
+DESCRIPTION:On foot\, ~10 min along the Lungomare. Confirm the date moved to today.\n\nGrama Bay & Blue Cave speedboat\nMeeting point: TripMe Today Office\, Rruga Murat Tërbaçi\, Vlorë · arrive 15 min before 10:30\n2 adults + Premium Onboard add-on · ~8 h\, back ~18:30\nBooked for 1 Oct by mistake — confirm the operator moved it to 5 Oct
+LOCATION:TripMe Today\, Rruga Murat Tërbaçi\, Vlorë
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TripMe Today office — boat check-in
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-62@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261005T103000
+DTEND;TZID=Europe/Tirane:20261005T190000
+SUMMARY:Speedboat: Karaburun\, Blue Cave\, Grama Bay
+DESCRIPTION:~8 h\, back ~18:30.\n\nGrama Bay & Blue Cave speedboat\nMeeting point: TripMe Today Office\, Rruga Murat Tërbaçi\, Vlorë · arrive 15 min before 10:30\n2 adults + Premium Onboard add-on · ~8 h\, back ~18:30\nBooked for 1 Oct by mistake — confirm the operator moved it to 5 Oct
+LOCATION:TripMe Today\, Rruga Murat Tërbaçi\, Vlorë
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Speedboat: Karaburun\, Blue Cave\, Grama Bay
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-63@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261005T190000
+DTEND;TZID=Europe/Tirane:20261005T200000
+SUMMARY:Dinner on the Lungomare
+DESCRIPTION:Last night on the coast.\n\nFlamingo Hotel\, Vlorë\nRruga Sulejman Delvina (Lungomare)\, Vlorë 9401 · ~10 min walk to the TripMe office\nSuperior double\, 1 king bed · $123.58 paid · at the property: $12.18 resort fee + city tax €2.64 pp/night\nCheck-in 15:00 · front desk 07:00–23:00\, no after-hours check-in · check-out 11:00
+LOCATION:Flamingo Hotel\, Rruga Sulejman Delvina\, Vlorë
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dinner on the Lungomare
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-64@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261006T073000
+DTEND;TZID=Europe/Tirane:20261006T075900
+SUMMARY:Wake up — Day 12: Apollonia\, then Tirana
+DESCRIPTION:09:30 Apollonia Archaeological Park\n13:00 Balkan Hostel\, Sauk\n19:00 Farewell dinner in Blloku\n\nBring: Comfortable shoes\, Credit card + backup\, Euros + lek cash\, Light layer for the evening\, Passport
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 12: Apollonia\, then Tirana
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-65@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261006T093000
+DTEND;TZID=Europe/Tirane:20261006T130000
+SUMMARY:Apollonia Archaeological Park
+DESCRIPTION:~45 min from Vlorë. 1h30. Drop it if you'd rather have the hour in Tirana.
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Apollonia Archaeological Park
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-66@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261006T130000
+DTEND;TZID=Europe/Tirane:20261006T190000
+SUMMARY:Balkan Hostel\, Sauk
+DESCRIPTION:Check-in from 14:00. Park here\; taxi into town tonight.\n\nBalkan Hostel\, Tirana (Sauk)\nRruga Peti\, Sauk\, Tirana 1063 · south edge of the city\n6-bed mixed dorm · €22 · $4.85 paid · €21.04 + €3 city tax at the property\nCheck-in 14:00–23:00 · check-out 11:00 · ask about parking
+LOCATION:Balkan Hostel\, Rruga Peti\, Sauk\, Tirana
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Balkan Hostel\, Sauk
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-67@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261006T190000
+DTEND;TZID=Europe/Tirane:20261006T200000
+SUMMARY:Farewell dinner in Blloku
+DESCRIPTION:Taxi in. Repack for the 8 kg carry-on tonight.
+LOCATION:Blloku\, Tirana
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Farewell dinner in Blloku
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-68@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261007T061500
+DTEND;TZID=Europe/Tirane:20261007T064500
+SUMMARY:Wake up — Day 13: Return the car\, fly home
+DESCRIPTION:06:50 Leave Sauk for the airport\n07:30 Return the car — Avis TIA\n08:00 Check in\, ITA Airways 11:30\n\nBring: 8 kg carry-on — repack the night before\, Boarding passes\, Driving licence + IDP\, Passport\, Passport (needed with a non-Albanian licence)\, Phone mount / cable\, Taksh's physical credit card
+LOCATION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wake up — Day 13: Return the car\, fly home
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-69@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261007T065000
+DTEND;TZID=Europe/Tirane:20261007T073000
+SUMMARY:Leave Sauk for the airport
+DESCRIPTION:~35 min via the ring road. Refuel on the way.
+LOCATION:Tirana International Airport
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leave Sauk for the airport
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-70@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261007T073000
+DTEND;TZID=Europe/Tirane:20261007T080000
+SUMMARY:Return the car — Avis TIA
+DESCRIPTION:Due 08:00. 24h location\, key drop. Unpair phones from the car.\n\nAvis · 24894486US1\nPick up Sat 26 Sep 08:00 — Albanian National (IH4)\, Rr Themistokli Germenji 10\, Tirana · Sat 08:00–16:00\nDrop off Wed 7 Oct 08:00 — Tirana International Airport · +355 67 502 3413 · 24h\, key drop\nOpel Astra or similar · manual · unlimited km · est. $470.73\nBring: Taksh's physical credit card\, licence\, passport\, IDP
+LOCATION:Tirana International Airport
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Return the car — Avis TIA
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:albania-2026-71@field
+DTSTAMP:20260921T120000Z
+DTSTART;TZID=Europe/Tirane:20261007T080000
+DTEND;TZID=Europe/Tirane:20261007T090000
+SUMMARY:Check in\, ITA Airways 11:30
+DESCRIPTION:3.5 h before departure.\n\nITA Airways · ZMPHSS\nOut: JFK 21:10 Wed 23 Sep → FCO 11:50 → FCO 23:05 → TIA 00:30 Fri 25 Sep\nBack: TIA 11:30 Wed 7 Oct → FCO 12:55 → FCO 15:10 → JFK 18:55\nEconomy Light: 1 personal item + 1 carry-on 8 kg each. No checked bag. Non-refundable.\nPassengers: Yatharth Raut\, Taksh Patel
+LOCATION:Tirana International Airport
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Check in\, ITA Airways 11:30
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
